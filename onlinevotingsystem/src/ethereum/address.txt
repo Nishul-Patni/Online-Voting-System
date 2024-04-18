@@ -1,0 +1,6 @@
+0x4cA6d7e654A2b86b4EB9666B105D26EC895d2788
+
+web3.storage api key
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJkaWQ6ZXRocjoweGU3OUIxNzFCNWZmMjBFNUVEMzM0NTZkOGFhNUI4YzMyRDRhZGI5MjkiLCJpc3MiOiJ3ZWIzLXN0b3JhZ2UiLCJpYXQiOjE2Njk1Mjc3NjQ1NTYsIm5hbWUiOiJkZWNlbnRyYWxpemVkRWxlY3Rpb25zIn0.C5NGlBhzQ0geOMAhY7qza7A_TWt574ORxdEPWKt7OhQ
+
+{0: 'testc8', 1: 'This is a test election', 2: '0', 3: 'c8@vote.com', 4: 'bafybeiezepobovq3gtbg3k4jtlndtzvctf26iimvkc4bbbjbot6toofyli'}

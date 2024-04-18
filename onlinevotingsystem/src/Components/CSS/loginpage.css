@@ -1,0 +1,42 @@
+.login-page-container{
+    /* background: url("../../pictures/voting.jpg") center center cover no-repeat fixed; */
+    /* background-color: red; */
+    background-image: url("../../pictures/voting.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.container{
+    background-color: white;
+    width: 60vw;
+    height: 20vw;
+    box-shadow: 0 0 10px black;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.vl {
+    border-left: 2px solid grey;
+    height: 100%;
+}
+
+.center-box{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    height: 50%;
+    justify-content: space-around;
+}
+
+.userChoiceContainer{
+    background-color: red !important;
+}
